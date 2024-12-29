@@ -53,4 +53,4 @@ npm run dev
    ```
 
 ## Screenshots
-https://drive.google.com/drive/folders/1XU1TcDMdI7ws5O0HUjPZwTgZyi99jQj8?usp=sharing
+https://drive.google.com/drive/folders/1hHSl9ilL7SrlteRK0T_nNILPzCuD-DHE?usp=drive_link
