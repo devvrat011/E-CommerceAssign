@@ -10,6 +10,47 @@ This is for the Assignment
 - **Checkout Page**: Secure checkout process where users can review their cart and provide shipping/payment details.
 - **Mock Payment Success/Failure Page**: Simulates payment status for testing purposes.
 
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/devvat011/E-CommerceAssign.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd <repository-name>
+   ```
+
+3. Install dependencies:
+   - If using `npm`:
+     ```bash
+     npm install
+     ```
+
+4. Set up environment variables:
+   - Create a `.env` file in the root directory.
+---
+
+## Running the Project
+
+### Development Mode
+
+Start the development server:
+```bash
+npm run dev
+```
+
+### Production Mode
+
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+2. Start the production server:
+   ```bash
+   npm start
+   ```
 
 ## Screenshots
 https://drive.google.com/drive/folders/1XU1TcDMdI7ws5O0HUjPZwTgZyi99jQj8?usp=sharing
