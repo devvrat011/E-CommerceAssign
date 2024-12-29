@@ -52,5 +52,20 @@ npm run dev
    npm start
    ```
 
+This project contains an E-Commerce application using Docker Compose to manage multi-container deployment.
+
+## Prerequisites
+
+- Docker installed on your system
+- Docker Compose installed
+
+## Setup and Commands
+
+### 1. Build the Docker Images
+To build the images for the services defined in `docker-compose.yaml`, run:
+```bash
+docker-compose up
+docker-compose down
+
 ## Screenshots
 https://drive.google.com/drive/folders/1hHSl9ilL7SrlteRK0T_nNILPzCuD-DHE?usp=drive_link
