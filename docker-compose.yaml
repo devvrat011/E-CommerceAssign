@@ -1,0 +1,17 @@
+services:
+  frontend:
+    build: client
+    ports: 
+      - "3000:3000"
+    networks:
+      - mern
+  backend:
+    build: server
+    ports:
+      - "8000:8000"
+    networks:
+      - mern
+
+networks:
+  mern:
+    driver: bridge
